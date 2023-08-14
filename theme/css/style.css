@@ -2156,7 +2156,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   left: 0;
   top: 0;
   font-weight: 700;
-  color: #ffc009;
+  color: #0091ff;
 }
 
 .testimonial-slide .slick-dots {
@@ -2835,7 +2835,7 @@ img.testimonial-thumb {
 
 /* Pricing featured */
 .ts-pricing-box.ts-pricing-featured .ts-pricing-header {
-  background: #ff9800;
+  background: #0091ff;
 }
 
 /* Contact Us
