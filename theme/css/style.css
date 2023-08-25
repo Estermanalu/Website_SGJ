@@ -2100,9 +2100,10 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 
 /* Clients */
 .clients-logo {
+  width: 150px;
   margin: 0 0 30px;
   border: 1px solid #dadada;
-  min-height: 105px;
+  min-height: 150px;
   padding: 0 30px;
   display: flex;
   flex-direction: column;
